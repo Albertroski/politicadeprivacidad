@@ -1,5 +1,5 @@
 # politicadeprivacidad GUESS THE NOTE!
-
+GUESS THE NOTE!
 Privacy Policy
 Albert Granell Lorenzo built the Guess the note! app as an Ad Supported app. This SERVICE is provided by Albert Granell Lorenzo at no cost and is intended for use as is.
 
